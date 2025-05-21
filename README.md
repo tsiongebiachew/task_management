@@ -28,7 +28,7 @@ A Spring Boot application for managing task workflows with role-based access (Ad
 - Responsive Thymeleaf UI
 
 ##  Setup
-1. Database: Import schema.sql to MySQL
+1. Database:MySQL( imported using cmd)
 2. Configuration: Update application.properties
 3. Run: 
 `bash
